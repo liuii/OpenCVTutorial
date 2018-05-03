@@ -1,6 +1,13 @@
 # OpenCV-Python官方文档中文翻译
 翻译：刘洪普
 
+安装OpenCV-Python最简洁方法：
+1. 首先安装anaconda。
+2. 用下面的命令安装：
+```
+conda install -c menpo opencv
+```
+
 ## 02_GUI_Features_in_OpenCV  
 学习显示和保存图像与视频，控制鼠标事件并创建滑动条。
 
@@ -11,4 +18,4 @@
 学习OpenCV内置的各种图像处理函数
 
 
-待更新
+> 待更新
