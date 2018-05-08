@@ -58,4 +58,8 @@
 **11_Image_Transforms_in_OpenCV.ipynb**  
 学习图像的傅里叶变换。
 
+**12_Template_Matching.ipynb**  
+学习利用模板匹配在图像中搜索目标。
+
+
 待续
