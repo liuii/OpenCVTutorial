@@ -1,5 +1,5 @@
 # OpenCV-Python官方文档中文翻译
-翻译：刘洪普
+翻译：Hongpu Liu
 
 安装OpenCV-Python最简洁方法：
 1. 首先安装anaconda。
