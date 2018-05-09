@@ -61,5 +61,10 @@
 **12_Template_Matching.ipynb**  
 学习利用模板匹配在图像中搜索目标。
 
+**13_Hough_Line_Transform.ipynb**
+学习如何在图像中检测直线。
+
+**14_Hough_Circle_Transform.ipynb**
+学习如何在图像中检测圆。
 
 待续
