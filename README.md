@@ -16,7 +16,7 @@ conda install -c menpo opencv
 学习基本的图像操作，例如编辑像素、几何变换、代码优化和一些数学工具。（3个教程，完结）
 
 ## 04_Image_Processing_in_OpenCV
-学习OpenCV内置的各种图像处理函数。（21个教程，未完）
+学习OpenCV内置的各种图像处理函数。（22教程，未完）
 
 
 > 待更新

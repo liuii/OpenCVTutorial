@@ -67,4 +67,7 @@
 **14_Hough_Circle_Transform.ipynb**
 学习如何在图像中检测圆。
 
+**15_Image_Segmentation_with_Watershed_Algorithm.ipynb**
+学习用分水岭算法来分割图像。
+
 待续
